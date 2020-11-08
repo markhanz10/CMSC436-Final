@@ -1,5 +1,5 @@
 # CMSC436-Final
-Final project for CMSC436
+CMSC436 Final Project
 
 Joel Eckles – 26 – Poker Cash Game Session Tracker
 
